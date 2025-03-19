@@ -1,0 +1,11 @@
+torch==2.4.0
+torchaudio==2.4.0
+transformers==4.49.0
+huggingface_hub==0.28.1
+llama-index
+flask
+flask-socketio
+numpy
+pandas
+matplotlib
+openai
